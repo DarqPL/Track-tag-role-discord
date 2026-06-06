@@ -19,12 +19,15 @@
   },
   "homepage": "https://github.com/DarqPL/Track-tag-role-discord#readme",
   "dependencies": {
+    "@vonage/server-sdk": "^3.27.0",
     "discord.js-selfbot-v13": "^3.7.1",
     "dotenv": "^17.4.2",
-    "node-telegram-bot-api": "^0.67.0"
+    "express": "^5.2.1",
+    "node-telegram-bot-api": "^0.67.0",
+    "twilio": "^6.0.2"
   },
   "devDependencies": {
-    "@types/node": "^25.9.1",
+    "@types/node": "^25.9.2",
     "@types/node-telegram-bot-api": "^0.64.14",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.3"
