@@ -2,6 +2,17 @@
 
 Hệ thống giám sát Discord tự động, gửi cảnh báo qua Telegram và gọi điện khẩn cấp qua Vonage khi không có phản hồi.
 
+## ⚠️ Disclaimer
+
+**Dự án này chỉ phục vụ mục đích giáo dục và học tập.**
+
+- Tác giả không chịu trách nhiệm cho bất kỳ hành vi lạm dụng, vi phạm Điều khoản dịch vụ của Discord, Telegram, Vonage hoặc pháp luật hiện hành nào phát sinh từ việc sử dụng code này.
+- Việc sử dụng selfbot (tài khoản người dùng tự động hóa) **vi phạm Discord Terms of Service** và có thể dẫn đến việc tài khoản bị khóa vĩnh viễn.
+- Người dùng tự chịu hoàn toàn trách nhiệm khi chạy dự án này. Hãy đảm bảo bạn có quyền sử dụng hợp pháp với tất cả các dịch vụ bên thứ ba liên quan.
+- Không sử dụng dự án này cho mục đích spam, quấy rối, hoặc gây hại cho người khác.
+
+---
+
 ## Tổng quan
 
 Bot lắng nghe một kênh Discord cụ thể. Khi có ai đó tag một role được chỉ định, hệ thống sẽ:
